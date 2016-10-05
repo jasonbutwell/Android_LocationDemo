@@ -5,8 +5,8 @@ android {
     buildToolsVersion "23.0.2"
     defaultConfig {
         applicationId "com.jasonbutwell.locationdemo"
-        minSdkVersion 14
-        targetSdkVersion 23
+        minSdkVersion 21
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
